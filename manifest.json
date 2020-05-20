@@ -1,0 +1,29 @@
+{
+  "name": "Riddle Guru",
+  "short_name": "RG",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "description": "Riddles straight from the Riddle Guru",
+  "orientation": "any",
+  "icons": [
+        {
+      "src": "https://1.bp.blogspot.com/-RZoyA0lj1co/XsVSu0kTLdI/AAAAAAAAAEk/V08f5238XwoCGj_SfjGyQCnFl1IYbWz3ACLcBGAsYHQ/s1600/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "density": "0.75"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-X9Q-FPW_kW8/XsVSr4xceQI/AAAAAAAAAEU/n_CtXGYlm7oqqK-LsZcFc0AOnofJb9o1gCLcBGAsYHQ/s1600/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "density": "4.0"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-C_MfI5c4x8M/XsVSuIecqXI/AAAAAAAAAEg/2tjsScNwWcsHSzRWHyIKUGMOph_FUVjUQCLcBGAsYHQ/s1600/android-chrome-512x512.png",
+      "sizes": "512x512"
+    }
+  ]
+}
