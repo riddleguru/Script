@@ -8,6 +8,10 @@
   "start_url": "/",
   "icons": [
     {
+      "src": "https://1.bp.blogspot.com/-iMMKt3AdG-g/Xr7w6E9U6pI/AAAAAAAAACw/YkwuxS9peJ82nnwVUhOqhvrOzxYUPNQQACK4BGAYYCw/s1600/LOGO%2Bcopy.jpg",
+      "sizes": "950x216",
+    },
+    {
       "src": "https://4.bp.blogspot.com/-jCUVX5efF9E/XsVhmDbUFdI/AAAAAAAAAFc/ed1LtvPKVLAxUp_ySSWMy9e3dApSUj10gCLcBGAsYHQ/s1600/icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png"
