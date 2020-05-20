@@ -1,29 +1,51 @@
 {
   "name": "Riddle Guru",
   "short_name": "RG",
-  "theme_color": "#ffffff",
+  "theme_color": "#fefefe",
   "background_color": "#ffffff",
-  "display": "standalone",
-  "scope": "/",
+  "display": "browser",
+  "Scope": "/",
   "start_url": "/",
-  "description": "Riddles straight from the Riddle Guru",
-  "orientation": "any",
   "icons": [
-        {
-      "src": "https://1.bp.blogspot.com/-RZoyA0lj1co/XsVSu0kTLdI/AAAAAAAAAEk/V08f5238XwoCGj_SfjGyQCnFl1IYbWz3ACLcBGAsYHQ/s1600/favicon-32x32.png",
-      "sizes": "32x32",
-      "type": "image/png",
-      "density": "0.75"
+    {
+      "src": "https://4.bp.blogspot.com/-jCUVX5efF9E/XsVhmDbUFdI/AAAAAAAAAFc/ed1LtvPKVLAxUp_ySSWMy9e3dApSUj10gCLcBGAsYHQ/s1600/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
     },
     {
-      "src": "https://4.bp.blogspot.com/-X9Q-FPW_kW8/XsVSr4xceQI/AAAAAAAAAEU/n_CtXGYlm7oqqK-LsZcFc0AOnofJb9o1gCLcBGAsYHQ/s1600/android-chrome-192x192.png",
+      "src": "https://3.bp.blogspot.com/--lDBeP9SA34/XsVhmyFioSI/AAAAAAAAAFg/PXuKfpTfYw0c0qtqL6WoBDflv7iifRcNgCLcBGAsYHQ/s1600/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-2_cEds0QniE/XsVhjWUFd0I/AAAAAAAAAFE/Y96tKxOggsMmTz1DTWncTUyiEp7IRxPegCLcBGAsYHQ/s1600/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-nqtgSwjFRFw/XsVhkR9BP4I/AAAAAAAAAFQ/5EymRDcmXL0LG3RHE9AQYXArjYzRRpgeQCLcBGAsYHQ/s1600/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-YMnyWWa8LdU/XsVhjouj0TI/AAAAAAAAAFI/IBdDouhck0MJj-LmBa9dhILDp6ccZ_6HgCLcBGAsYHQ/s1600/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-MltIci_MWHI/XsVhkSzQKHI/AAAAAAAAAFM/iurR6bLuotYYu7Xh7yXlMW92WVFFTVZjACLcBGAsYHQ/s1600/icon-192x192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "density": "4.0"
+      "type": "image/png"
     },
     {
-      "src": "https://1.bp.blogspot.com/-C_MfI5c4x8M/XsVSuIecqXI/AAAAAAAAAEg/2tjsScNwWcsHSzRWHyIKUGMOph_FUVjUQCLcBGAsYHQ/s1600/android-chrome-512x512.png",
-      "sizes": "512x512"
+      "src": "https://3.bp.blogspot.com/-dzbK343iJDs/XsVhk1CVsZI/AAAAAAAAAFU/-5wK1HmgWWMtoeLK1QAHKL-3BAjUcbtcQCLcBGAsYHQ/s1600/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-BPLJn5nJBrE/XsVhlow5daI/AAAAAAAAAFY/Xa--_xbJYw0PSDjW8mGGW79nA_bogwMvgCLcBGAsYHQ/s1600/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ]
 }
